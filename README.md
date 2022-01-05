@@ -37,7 +37,7 @@ $ go run .
 ```
 #!/bin/bash
 
-curl -X GET http://127.0.0.1/shorten?url=https://github.com/ugurkorkmaz/shorten
+curl -X GET http://127.0.0.1:3000/shorten?url=https://github.com/ugurkorkmaz/shorten
 
 // 
 {"long":"https://github.com/ugurkorkmaz/shorten","uid":"31ae8b"}
@@ -45,7 +45,7 @@ curl -X GET http://127.0.0.1/shorten?url=https://github.com/ugurkorkmaz/shorten
 ```
 #!/bin/bash
 
-curl -X GET http://127.0.0.1/31ae8b
+curl -X GET http://127.0.0.1:3000/31ae8b
 
 // Redirects to long url
 

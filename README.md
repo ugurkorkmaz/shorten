@@ -1,9 +1,4 @@
-<div align="center" id="top" style="font-size: 48px"> 
-  :art:
-  &#xa0;
-</div>
 
-<h1 align="center">Frame</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/ugurkorkmaz/shorten?color=56BEB8">

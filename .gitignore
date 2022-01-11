@@ -1,3 +1,4 @@
-*.rdb
-*.sqlite
-vendor/
+/node_modules/
+/public/build/
+/vendor/
+.DS_Store

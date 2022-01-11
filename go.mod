@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/gofiber/fiber/v2 v2.24.0
+	github.com/gofiber/template v1.6.21
 	github.com/google/uuid v1.3.0
 	github.com/joho/godotenv v1.4.0
 	gorm.io/driver/sqlite v1.2.6
